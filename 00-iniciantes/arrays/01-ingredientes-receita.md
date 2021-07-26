@@ -64,6 +64,8 @@ $ingredientes = [
 **Dica:**
 Caso não tenha um *webserver* ou não saiba como abrir o script no navegador:
 
+[Veja essa issue onde é explicado](https://github.com/ministracao-aulas/tarefas-php/issues/1)
+
 1. Abra o CMD ou o Terminal
 2. Acesse o caminho onde seu projeto está
 3. Digite `php -S 0.0.0.0:8000 arquivo.php` 
