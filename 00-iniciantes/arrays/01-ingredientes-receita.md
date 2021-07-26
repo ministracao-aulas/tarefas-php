@@ -11,9 +11,12 @@ Lista de Ingredientes
 
 ---
 
-[GIST dessa tarefa](https://gist.github.com/tiagofrancafernandes/7b8beb6ce667025f99eff5ccf3aa72b1)
+## Issues
+Em caso de dúvidas ou se seu script não está funcionando como esperado, pesquise nas issues se alguém teve o mesmo problema, caso não exista uma aberta, crie uma nova.
 
-Use o GIST para postar dúvidas, soluções, etc.
+[Issues](https://github.com/ministracao-aulas/tarefas-php/issues)
+
+[Criar uma issue](https://github.com/ministracao-aulas/tarefas-php/issues/new/choose)
 
 ---
 
