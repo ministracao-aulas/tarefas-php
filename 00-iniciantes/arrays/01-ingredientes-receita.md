@@ -9,6 +9,11 @@ Lista de Ingredientes
 > - array associativo
 > - laços de repetição
 
+---
+
+[GIST dessa tarefa](https://gist.github.com/tiagofrancafernandes/7b8beb6ce667025f99eff5ccf3aa72b1)
+
+Use o GIST para postar dúvidas, soluções, etc.
 
 ---
 
