@@ -1,11 +1,13 @@
 Lista de Ingredientes
 
 
->*Dificuldade 1 de 5*
->Conhecimentos básicos necessários:
->HTML:
+> *Dificuldade 1 de 5*
+> Conhecimentos básicos necessários:
+> 
+> HTML:
 > - listas
->PHP:
+> 
+> PHP:
 > - array associativo
 > - laços de repetição
 
